@@ -3,4 +3,4 @@
     learned from Patrick's course ~
 
 ## source code
-    https://github.com/Cyfrin/foundry-fund-me-f23
+    <https://github.com/Cyfrin/foundry-fund-me-f23>
