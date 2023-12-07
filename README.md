@@ -1,3 +1,4 @@
 # About
-    This is a foundry FundMe Dapp! 
-## 
+    This is a Foundry crowd sourcing app! 
+    learned from Patrick's course ~
+
